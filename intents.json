@@ -1,0 +1,124 @@
+{
+  "intents": [
+    {
+      "tag": "habitat_tiger",
+      "patterns": ["Where does the tiger live?", "What is the tiger's habitat?", "In what area can the tiger be found?", "Tiger habitat?"],
+      "responses": ["The tiger lives in tropical forests and mangroves in Asia."]
+    },
+    {
+      "tag": "food_tiger",
+      "patterns": ["What does the tiger eat?", "What does the tiger feed on?", "Tiger's food?", "What does the tiger consume?"],
+      "responses": ["The tiger is a carnivore and feeds on deer, wild boars, and buffaloes."]
+    },
+    {
+      "tag": "life_tiger",
+      "patterns": ["How long does a tiger live?", "Tiger's lifespan?", "How many years does a tiger live?", "What is the average life of a tiger?"],
+      "responses": ["The tiger lives about 10–15 years in the wild and up to 20 years in captivity."]
+    },
+    {
+      "tag": "dangerous_tiger",
+      "patterns": ["Is the tiger dangerous?", "Does the tiger attack people?", "Can the tiger be aggressive?", "Is the tiger a threat?"],
+      "responses": ["The tiger is a dangerous animal, especially if it is provoked or hungry."]
+    },
+
+    {
+      "tag": "habitat_elephant",
+      "patterns": ["Where does the elephant live?", "Elephant habitat?", "Where can elephants be found?", "In what environment does the elephant live?"],
+      "responses": ["Elephants live in savannas, tropical forests, and deserts in Africa and Asia."]
+    },
+    {
+      "tag": "food_elephant",
+      "patterns": ["What does the elephant eat?", "What does the elephant feed on?", "Elephant's food?", "What does the elephant consume?"],
+      "responses": ["The elephant is a herbivore and eats grass, fruits, tree bark, and leaves."]
+    },
+    {
+      "tag": "life_elephant",
+      "patterns": ["How long does an elephant live?", "Elephant's lifespan?", "How many years does an elephant live?"],
+      "responses": ["Elephants live on average between 60 and 70 years."]
+    },
+    {
+      "tag": "dangerous_elephant",
+      "patterns": ["Is the elephant dangerous?", "Can the elephant be aggressive?", "Do elephants attack people?"],
+      "responses": ["Although they seem gentle, elephants can be dangerous if they feel threatened."]
+    },
+
+    {
+      "tag": "habitat_giraffe",
+      "patterns": ["Where does the giraffe live?", "Giraffe habitat?", "Where can giraffes be found?"],
+      "responses": ["Giraffes live in the savannas of Africa."]
+    },
+    {
+      "tag": "food_giraffe",
+      "patterns": ["What does the giraffe eat?", "What does the giraffe feed on?", "Giraffe's food?"],
+      "responses": ["Giraffes feed on leaves, especially from acacia trees."]
+    },
+    {
+      "tag": "life_giraffe",
+      "patterns": ["How long does a giraffe live?", "Giraffe's lifespan?", "How many years does a giraffe live?"],
+      "responses": ["A giraffe lives between 20 and 25 years."]
+    },
+    {
+      "tag": "dangerous_giraffe",
+      "patterns": ["Is the giraffe dangerous?", "Can the giraffe be aggressive?"],
+      "responses": ["The giraffe is a peaceful animal and is not considered dangerous."]
+    },
+
+    {
+      "tag": "habitat_panda",
+      "patterns": ["Where does the panda live?", "Panda habitat?", "Where does the panda bear live?"],
+      "responses": ["The panda lives in the bamboo mountain forests of China."]
+    },
+    {
+      "tag": "food_panda",
+      "patterns": ["What does the panda eat?", "What is the panda's diet?", "What does the panda feed on?"],
+      "responses": ["The panda mainly eats bamboo, but also occasionally eggs or fish."]
+    },
+    {
+      "tag": "life_panda",
+      "patterns": ["How long does a panda live?", "Panda's lifespan?"],
+      "responses": ["The panda lives between 20 and 30 years in captivity."]
+    },
+    {
+      "tag": "dangerous_panda",
+      "patterns": ["Is the panda dangerous?", "Does the panda attack people?"],
+      "responses": ["The panda is usually not dangerous, but it can bite if disturbed."]
+    },
+
+    {
+      "tag": "habitat_crocodile",
+      "patterns": ["Where does the crocodile live?", "Crocodile habitat?", "Where can crocodiles be found?"],
+      "responses": ["Crocodiles live in rivers, lakes, and tropical swamps."]
+    },
+    {
+      "tag": "food_crocodile",
+      "patterns": ["What does the crocodile eat?", "What does the crocodile feed on?", "Crocodile's food?"],
+      "responses": ["The crocodile is a carnivore and eats fish, birds, and mammals."]
+    },
+    {
+      "tag": "life_crocodile",
+      "patterns": ["How long does a crocodile live?", "Crocodile's lifespan?"],
+      "responses": ["Crocodiles can live more than 70 years."]
+    },
+    {
+      "tag": "dangerous_crocodile",
+      "patterns": ["Is the crocodile dangerous?", "Do crocodiles attack people?"],
+      "responses": ["Yes, the crocodile is an extremely dangerous animal for humans."]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": ["Hello", "Hi", "How are you?", "Hey", "Hi there"],
+      "responses": ["Hello! How can I help you with exotic animals today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later", "Talk to you soon!"],
+      "responses": ["Goodbye! Feel free to ask me anytime about exotic animals."]
+    },
+    {
+      "tag": "fillers",
+      "patterns":["Cool", "Good to know", "Thanks", "Thank you"],
+      "responses":["You're welcome ;)"]
+    }
+  ]
+}
