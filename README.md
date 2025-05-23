@@ -18,6 +18,5 @@ Once trained, the model is saved and reused without retraining, enabling fast in
 
 ## Additional Notes
 
-The chatbot was designed for educational and experimental purposes, making it easy to modify and expand. By adjusting the JSON file or the training parameters, developers can adapt it to more complex domains or extend it into a more sophisticated AI assistant.
-
+All training patterns and responses are defined in intents.json. You can extend this file to add new topics and responses.
 ---
